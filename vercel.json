@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://neteaseapi.unicloud.top/:match*"
+    }
+  ]
+}
